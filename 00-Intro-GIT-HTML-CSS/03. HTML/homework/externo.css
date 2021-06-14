@@ -1,0 +1,34 @@
+h1 {
+color:blue 
+}
+
+img{
+	width: 400px;
+    align-items: center
+    
+}
+
+#thirdDiv{	
+	height: 600px;
+	width: 500px;
+	background-color: #143653;
+	padding: 50px;	
+	border: 1px solid black;
+}
+
+#spandId{
+    font-size: 18px;
+    margin: 50px
+}
+
+
+body {
+    background-color: #ffdd90;
+    background-image: url("https://blog.aulaformativa.com/wp-content/uploads/2014/03/creacion-de-paginas-web-blanco-como-fondo-702x336.jpg");
+    text-align:center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+
+}      
+ 
